@@ -42,8 +42,7 @@ The architecture is like:
 - I choose Adam with optimizer and binary crossentropy as the loss.
 
 ## Result
-
-
+The trainint accuracy after 50 epoch is 95.12%, and the test accuracy after evaluation the model is 92.91%.
 
 
 
