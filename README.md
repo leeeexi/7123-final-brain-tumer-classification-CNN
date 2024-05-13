@@ -1,8 +1,6 @@
 # 7123-final-brain-tumer-classification-CNN
 # Brain Tumor Classification with Convolutional Neural Networks
 
-# Brain Tumor Classification with Convolutional Neural Networks
-
 ## Author
 - **Name:** Ruining Li
 - **Email:** rl4895@nyu.edu
@@ -18,13 +16,26 @@ In doing this project, I hope to explore the usage of deep learning on medical d
 
 
 ## Dataset
-The dataset used in this project is obtained from (https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). It consists of [number] MRI images of the brain, divided into the following categories:
-- Category 1: [description]
-- Category 2: [description]
-- Category 3: [description]
+The dataset used in this project is obtained from (https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). This dataset consists of brain tumor MRI images from 3 different database, including BraTs, figshare, and SARTAJ. It consists of 7023 MRI images of the brain, divided into the following categories:
+- Category 1: glioma 
+- Category 2: meningioma
+- Category 3: notumor
+- Category 4: pituitary
+
+
 
 ## Installation
+- Step 1.
+Download the dataset from the given dataset website(https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). Since the dataset is very large, it is not possible to upload it to Github, so in order to run the project right, it is essential to download the dataset from the given website.
+- Step 2.
+Put the dataset and the jupyter notebook file into the same folder. I have also provided the python file in case that the notebook not showing well.
+- Step 3.
+Simply run the jupyter notebook file or the python file.
+
 ## Model
+
+
+
 ## Result
 
 
