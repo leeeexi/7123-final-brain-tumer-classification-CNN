@@ -39,7 +39,7 @@ The architecture is like:
 - 3 2D Maxpooling layers with pool size of (2,2)
 - Dropout with parameters of 0.5, 0.3, 0.2, 0.15
 - Last layers(Dense layers) equipped with Sigmoid.
-I choose Adam with optimizer and binary crossentropy as the loss.
+- I choose Adam with optimizer and binary crossentropy as the loss.
 
 ## Result
 
