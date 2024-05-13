@@ -33,8 +33,13 @@ Put the dataset and the jupyter notebook file into the same folder. I have also 
 Simply run the jupyter notebook file or the python file.
 
 ## Model
-
-
+The convolutional neural network is used the do the detection and classification of the brain tumor. 
+The architecture is like:
+- 3 2D convolutional layers with ReLU as activation function
+- 3 2D Maxpooling layers with pool size of (2,2)
+- Dropout with parameters of 0.5, 0.3, 0.2, 0.15
+- Last layers(Dense layers) equipped with Sigmoid.
+I choose Adam with optimizer and binary crossentropy as the loss.
 
 ## Result
 
