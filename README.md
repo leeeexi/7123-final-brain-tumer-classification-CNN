@@ -28,9 +28,9 @@ The dataset used in this project is obtained from (https://www.kaggle.com/datase
 - Step 1.
 Download the dataset from the given dataset website(https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). Since the dataset is very large, it is not possible to upload it to Github, so in order to run the project right, it is essential to download the dataset from the given website.
 - Step 2.
-Put the dataset and the jupyter notebook file into the same folder. I have also provided the python file in case that the notebook not showing well.
+Put the dataset and the jupyter notebook file(final_project.ipynb) into the same folder. I have also provided the python file(final_project.py) in case that the notebook not showing well.
 - Step 3.
-Simply run the jupyter notebook file or the python file.
+Simply run the jupyter notebook file or the python file.(final_project.ipynb or final_project.py)
 
 ## Model
 The convolutional neural network is used the do the detection and classification of the brain tumor. 
